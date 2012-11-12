@@ -13,7 +13,7 @@ Use without DOM (globally):
 
      Example:
 
-         // Setup in a conditionally loaded script
+         // Setup in a conditionally loaded script, see example/jquery-environment-config.js.erb
          $.environment({ here: 'dragon', env_name: 'production', foo: 'bar'});
 
          // Usage elsewhere
