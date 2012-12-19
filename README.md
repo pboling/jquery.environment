@@ -1,4 +1,4 @@
-jQuery Environment Plugin
+jQuery Environment Plugin [![Endorse Me](http://api.coderwall.com/pboling/endorsecount.png)](http://coderwall.com/pboling)
 =========================
 
 Allows the setting of environment specific configuration.
