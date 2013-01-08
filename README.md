@@ -53,7 +53,23 @@ Release Date: November 12, 2012
 Based on:  'Highly configurable' mutable plugin boilerplate by @markdalgleish and @addyosmani,
            see http://coding.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/
 
-Licensed under the MIT license
+## Versioning
+
+This library aims to adhere to [Semantic Versioning 2.0.0][semver].
+Violations of this scheme should be reported as bugs. Specifically, 
+if a minor or patch version is released that breaks backward 
+compatibility, a new version should be immediately released that
+restores compatibility. Breaking changes to the public API will 
+only be introduced with new major versions.
+
+[semver]: http://semver.org/
+
+## License
+
+MIT license
+
+
+## Notes
 
 Note that with this pattern, as per Alex Sexton's, the plugin logic
 hasn't been nested in a jQuery plugin. Instead, we just use
