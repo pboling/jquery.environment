@@ -74,3 +74,7 @@ MIT license
 Note that with this pattern, as per Alex Sexton's, the plugin logic
 hasn't been nested in a jQuery plugin. Instead, we just use
 jQuery for its instantiation.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pboling/jquery.environment/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
